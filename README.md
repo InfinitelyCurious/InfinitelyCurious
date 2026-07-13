@@ -6,7 +6,7 @@
 
 ## 🔭 About Me
 
-I recently completed my PhD in Astrophysics at Vanderbilt University (defended October 2025, degree conferred May 2026), where I developed automated analysis pipelines and led a 27-person international citizen science team to create the largest spatially-resolved catalog of post-starburst E+A galaxies in SDSS-IV MaNGA.
+I recently completed my PhD in Astrophysics at Vanderbilt University (defended October 2025, degree conferred May 2026), where I developed automated analysis pipelines and led a 27-person international citizen science team to create the largest, visually classified, spatially-resolved catalog of post-starburst E+A galaxies in SDSS-IV MaNGA.
 
 **Current Focus:**
 - 🛠️ Developing open-access research tools for the astronomy community
